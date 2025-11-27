@@ -1,0 +1,679 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-bg {
+
+    background-size: cover;
+    width: 100%;
+    height: 150vh;
+    background-color: white;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.home-bg-image {
+    background-image: url("https://t4.ftcdn.net/jpg/02/92/20/37/360_F_292203735_CSsyqyS6A4Z9Czd4Msf7qZEhoxjpzZl1.jpg");
+    background-size: cover;
+
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.home-image-heading {
+    color: white;
+    font-family: "Allura";
+    font-style: italic;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.home-image-para {
+    color: yellow;
+    font-size: 12px;
+    font-family: "Courier New";
+    margin-left: 10px;
+}
+
+.text-center {
+    padding: 120px;
+}
+
+.home-restaurent-para {
+    color: black;
+}
+
+.span-1 {
+    color: red;
+    font-family: "Balsmiq Sans";
+    font-size: 25px;
+}
+
+.span-2 {
+    font-family: "Balsmiq Sans";
+    font-size: 25px;
+    color: red;
+}
+
+.span-3 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.home-restaurent-card-bg {
+
+
+    background-size: cover;
+
+    border-width: 1px;
+    border-radius: 15px;
+    border-color: black;
+    border-style: solid;
+    background-image: linear-gradient(to left, #d0eef5, #03f4fc);
+
+}
+
+.home-restaurent-card-1 {
+    width: 30vw;
+    height: 20vh;
+    border-radius: 15px;
+
+
+
+}
+
+.home-restaurent-card-para {
+    margin-left: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.home-restaurent-card-head {
+    font-size: 10px;
+    text-align: center;
+}
+
+.bi {
+    margin-right: 8px;
+    margin-top: 4px;
+    width: 60px;
+    color: black;
+
+}
+
+.logo-para-1 {
+    font-size: 15px;
+}
+
+.logo-para-2 {
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.home-restaurent-card-2 {
+    width: 30vw;
+    height: 20vh;
+    border-radius: 15px;
+
+
+}
+
+.logo-para-2 {
+    font-size: 15px;
+}
+
+.home-restaurent-card-head-2 {
+    font-size: 12px;
+    text-align: center;
+}
+
+.home-restaurent-card-3 {
+    width: 30vw;
+    height: 20vh;
+    border-radius: 15px;
+
+
+
+}
+
+.home-restaurent-card-4 {
+    width: 30vw;
+    height: 20vh;
+    border-radius: 15px;
+
+
+
+}
+
+.logo-para-4 {
+    font-size: 15px;
+}
+
+.home-restaurent-card-head-4 {
+    font-size: 15px;
+    text-align: center;
+}
+
+.home-restaurent-card-head-5 {
+    font-size: 13px;
+    text-align: center;
+}
+
+.home-restaurent-card-5 {
+    width: 30vw;
+    height: 20vh;
+    border-radius: 15px;
+
+}
+
+.logo-para-5 {
+    font-size: 15px;
+}
+
+.home-restaurent-card-head-6 {
+    font-size: 12px;
+    text-align: center;
+}
+
+.logo-para-6 {
+    font-size: 15px;
+}
+
+.home-restaurent-card-6 {
+    width: 30vw;
+    height: 20vh;
+    border-radius: 15px;
+
+}
+
+.button {
+    background-image: linear-gradient(to left, #d0eef5, #03f4fc);
+    background-size: cover;
+    border-radius: 1px;
+    border-radius: 5px;
+    border-color: grey;
+
+}
+
+.menu-card-bg-1 {
+    background-color: white;
+    background-size: cover;
+    border-radius: 15px;
+    height: 35vh;
+    width: 30vh;
+}
+
+.biryani-image {
+    height: 20vh;
+    width: 30vh;
+    border-radius: 15px;
+}
+
+
+.menu-section-main-heading {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "Tangerine", cursive;
+    text-align: center;
+}
+
+.menu-card-1 {
+    color: black;
+    font-size: 20px;
+    font-family: "Lobster";
+    text-align: center;
+
+
+}
+
+
+
+.menu-card-link-1 {
+    color: red;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 60px;
+}
+
+.menu-card-background {
+    background-image: linear-gradient(to bottom, #e1ace6, white);
+    background-size: cover;
+    border-radius: 20px;
+    transition: transform 0.4s ease;
+}
+
+.menu-card-background-1 {
+    background-image: linear-gradient(to bottom, #c1f5c9, white);
+    background-size: cover;
+    border-radius: 20px;
+    transition: transform 0.4s ease;
+}
+
+.menu-card-background-2 {
+    background-image: linear-gradient(to top, #f2c2b1, white);
+    background-size: cover;
+    border-radius: 20px;
+    transition: transform 0.4s ease;
+}
+
+.menu-card-background-3 {
+    background-image: linear-gradient(to bottom, #cad982, white);
+    background-size: cover;
+    border-radius: 20px;
+    transition: transform 0.4s ease;
+}
+
+.menu-card-background-4 {
+    background-image: linear-gradient(to bottom, #f0e59e, white);
+    background-size: cover;
+    border-radius: 20px;
+    transition: transform 0.4s ease;
+}
+
+.menu-card-background-5 {
+    background-image: linear-gradient(to right, #e0ad6e, white);
+    background-size: cover;
+    border-radius: 20px;
+    transition: transform 0.4s ease;
+}
+
+.menu-card-background-6 {
+    background-image: linear-gradient(to bottom, #f28a96, white);
+    background-size: cover;
+    border-radius: 20px;
+    transition: transform 0.4s ease;
+}
+
+.menu-card-background:hover {
+    transform: scale(1.10) translateY(-5px);
+}
+
+.menu-card-background-1:hover {
+    transform: scale(1.10) translateY(-5px);
+}
+
+.menu-card-background-2:hover {
+    transform: scale(1.10) translateY(-5px);
+}
+
+.menu-card-background-3:hover {
+    transform: scale(1.10) translateY(-5px);
+}
+
+.menu-card-background-4:hover {
+    transform: scale(1.10) translateY(-5px);
+}
+
+.menu-card-background-5:hover {
+    transform: scale(1.10) translateY(-5px);
+}
+
+.menu-card-background-6:hover {
+    transform: scale(1.10) translateY(-5px);
+}
+
+.menu-card-image {
+    height: 20vh;
+    border-radius: 10px;
+}
+
+.menu-card-btn {
+    background-color: white;
+    border-radius: 10px;
+    border-color: transparent;
+    color: red;
+
+}
+
+.center {
+    text-align: center;
+}
+
+.menu-btn {
+    border-color: grey;
+    border-radius: 5px;
+    background-color: red;
+    height: 30px;
+    width: 100px;
+    color: white;
+}
+
+.btn-center {
+    text-align: center;
+}
+
+.non-veg-heading {
+    font-size: 20px;
+    background-color: white;
+    font-family: "Apple Chancery", cursive;
+    text-align: center;
+    padding: 10px;
+}
+
+.non-veg-section-main-heading {
+    color: black;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.non-veg-section-main-heading-1 {
+    color: white;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.menu-card-2 {
+    color: black;
+    font-size: 20px;
+    font-family: "Courier";
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.center-nonveg {
+    background-color: white;
+    border-color: transparent;
+    border-radius: 10px;
+
+    text-align: center;
+
+}
+
+.center-tiffin {
+    background-color: white;
+    border-color: transparent;
+    border-radius: 10px;
+
+    text-align: center;
+
+}
+
+.non-veg-back-btn {
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    height: 35px;
+    width: 90px;
+
+}
+
+.carousel-image {
+    height: 10vh;
+}
+
+.menu-card-3 {
+    color: black;
+    font-size: 17px;
+    font-family: "Courier";
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.tiffins-btn {
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    height: 35px;
+    width: 90px;
+}
+
+.tiffins-btn-1 {
+    background-color: white;
+    border-radius: 5px;
+    color: white;
+    height: 35px;
+    width: 90px;
+}
+
+.btn-center {
+    text-align: center;
+}
+
+.middle {
+    text-align: center;
+}
+
+.menu-btn-1 {
+    border-color: grey;
+    border-radius: 5px;
+    background-color: red;
+    height: 30px;
+    width: 100px;
+    color: white;
+
+}
+
+
+
+
+
+
+.restaurant-card {
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.4s ease;
+}
+
+.restaurant-card:hover {
+    transform: scale(1.10) translateX(-3px);
+}
+
+.img-wrap {
+    height: 160px;
+}
+
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+
+.card-title {
+    font-size: 1rem;
+    font-weight: 600;
+    font-weight: bold;
+    color: red;
+    font-family: "Open Sans";
+}
+
+.card-text {
+
+    color: #4b5563;
+    font-family: "American Typewriter";
+    font-size: 15px;
+}
+
+.menu-back-bg {
+    background-image: url("https://img.freepik.com/free-photo/leaves-collection-table_23-2147931785.jpg?semt=ais_hybrid&w=740&q=80");
+
+}
+
+.non-veg-back-bg-1 {
+    background-image: url("https://t4.ftcdn.net/jpg/05/60/56/09/360_F_560560976_EUynWTCsR5uk7mBUPtqi7ToueH6r6kEe.jpg");
+
+}
+
+.tiffin-back-bg {
+    background-image: url("https://i.pinimg.com/736x/0b/e8/41/0be84173553ea204fba826a7c8c834da.jpg");
+
+}
+
+.veg-back-bg {
+    background-image: url("https://www.yellowthyme.com/wp-content/uploads/2019/04/South-indian-curd-rice-08746.jpg");
+
+}
+
+.desert-back-bg {
+    background-image: url("https://womenoftoday.com/app/uploads/2025/09/salted-caramel-nice-cream20250830_1143070-645x840.jpg");
+}
+
+.fast-food-back-bg {
+    background-image: url("https://img.freepik.com/premium-photo/spicy-noodles-black-background_726745-6740.jpg");
+
+}
+
+.juice-back-bg {
+    background-image: url("https://st5.depositphotos.com/10614052/66345/i/450/depositphotos_663457282-stock-photo-bottle-glass-cold-beer-dark.jpg");
+
+}
+
+.nav-image {
+    height: 80px;
+
+}
+
+.main-first-home-page-bg {
+    background-color: #ff5200;
+    height: 100vh;
+}
+
+.main-section-home-page-head {
+    color: white;
+    font-size: 30px;
+
+    text-align: center;
+    padding-top: 80px;
+    font-family: "Densia Sans";
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.main-home-button {
+    background-color: transparent;
+    border-radius: 5px;
+    border-color: transparent;
+    color: white;
+
+}
+
+.discount-bg {
+    background-color: white;
+
+}
+
+.discount-image {
+    height: 50vh;
+
+}
+
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Lobster";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.payment-card-img {
+    width: 70px;
+    height: 70px;
+    margin-right: 40px;
+
+}
+
+.discount-btn {
+    background-image: linear-gradient(to left, #d0eef5, #03f4fc);
+    border-radius: 5px;
+    color: black;
+    border-color: white;
+    height: 35px;
+    width: 90px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-heading {
+    text-align: center;
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-image: linear-gradient(to top, #81e36b, #edf0f2);
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding: 25px;
+    transition: transform 0.4s ease;
+}
+
+.icon-symbols {
+    color: red;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: white;
+}
+
+.mail-id {
+    color: black;
+    font-family: "Readability";
+    font-weight: bold;
+
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.address {
+    color: black;
+    font-family: "Helvetica";
+    font-size: 14px;
+}
+
+.food-logo {
+    width: 50vw;
+    height: 35vh;
+}
+
+.follow-us-button {
+    background-image: linear-gradient(to bottom, #81e36b, #edf0f2);
+    border-radius: 5px;
+    border-color: white;
+    color: black;
+    height: 35px;
+    width: 90px;
+    margin-bottom: 150px;
+}
+
+.follow-us-icon-container:hover {
+    transform: scale(1.10) translateY(-5px);
+}
