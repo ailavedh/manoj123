@@ -509,7 +509,7 @@
 }
 
 .menu-back-bg {
-    background-image: url("https://img.freepik.com/free-photo/leaves-collection-table_23-2147931785.jpg?semt=ais_hybrid&w=740&q=80");
+    background-image: url("https://i.pinimg.com/236x/1c/2a/ed/1c2aed549a2097d5d9e4ffde5a7e44c9.jpg");
 
 }
 
@@ -548,16 +548,16 @@
 }
 
 .main-first-home-page-bg {
-    background-color: #ff5200;
+    background-image: url("https://paperplanedesign.in/cdn/shop/files/red-color-brick-pattern-wallpaper-for-cafe-and-restaurants-wall-decoration-998997.jpg?v=1715591697&width=1080");
     height: 100vh;
+    background-size: cover;
 }
 
 .main-section-home-page-head {
-    color: white;
-    font-size: 30px;
+    color: black;
+    font-size: 40px;
 
     text-align: center;
-    padding-top: 80px;
     font-family: "Densia Sans";
     font-style: italic;
     font-weight: bold;
@@ -568,6 +568,9 @@
     background-color: transparent;
     border-radius: 5px;
     border-color: transparent;
+    font-weight: bold;
+    padding: 40px;
+    font-size: 20px;
     color: white;
 
 }
@@ -605,7 +608,7 @@
 }
 
 .discount-btn {
-    background-image: linear-gradient(to left, #d0eef5, #03f4fc);
+    background-image: linear-gradient(to bottom, #f2685e, #fcf8f7);
     border-radius: 5px;
     color: black;
     border-color: white;
@@ -660,12 +663,12 @@
 }
 
 .food-logo {
-    width: 50vw;
-    height: 35vh;
+    width: 25vw;
+    height: 20vh;
 }
 
 .follow-us-button {
-    background-image: linear-gradient(to bottom, #81e36b, #edf0f2);
+    background-image: linear-gradient(to bottom, #e8c668, #edf0f2);
     border-radius: 5px;
     border-color: white;
     color: black;
